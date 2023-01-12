@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning python,html+css
+🌱 I’m currently learning python, html+css
 
 
 <!--
